@@ -1,0 +1,4 @@
+﻿  Source.cpp
+Z:\coding journey\Login and Registration System\Source.cpp(74,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Z:\coding journey\Login and Registration System\Source.cpp(112,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Login and Registration System.vcxproj -> Z:\coding journey\Login and Registration System\x64\Debug\Login and Registration System.exe
